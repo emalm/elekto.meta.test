@@ -6,6 +6,7 @@ no_winners: 1
 allow_no_opinion: True
 delete_after: True
 show_candidate_fields:
+  - employer
 election_officers:
   - kalkayan
   - jberkus
