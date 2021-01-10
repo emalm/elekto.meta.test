@@ -1,6 +1,6 @@
 name: Select our 2021 General Board Rep
 organization: Kubernetes
-start_datetime: 2021-01-11 00:00:01
+start_datetime: 2021-01-8 00:00:01
 end_datetime: 2021-01-13 23:59:00
 no_winners: 1
 allow_no_opinion: True
