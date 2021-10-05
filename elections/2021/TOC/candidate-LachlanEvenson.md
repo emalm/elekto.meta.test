@@ -6,9 +6,6 @@ info:
   - slack: lachie83
 -------------------------------------------------------------
 
-<!-- Please make a copy of this template as "candidate-yourname.md" and save it to
-the election directory -->
-
 ## SIGS
 
 - Emeritus Kubernetes Steering Committee member
