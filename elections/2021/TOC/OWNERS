@@ -1,6 +1,11 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
-reviewers:
+# replace with election officers once election starts
 approvers:
+  - committee-steering
+  - alisondy
+  - ameukam
   - jberkus
-  - mrbobbytables
+  - coderanger
+labels:
+  - committee/steering
