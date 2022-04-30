@@ -4,4 +4,4 @@ The new voting and elections application is almost ready, which means it's time 
 
 ## Election Period
 
-This election starts December 29th at 00:00 UTC, and ends January 4rd at 23:59 UTC.  Don't forget to vote!
+This election starts April 2nd, 2022, at 00:00 UTC, and ends May 20th, 2022, at 23:59 UTC.  Don't forget to vote!
