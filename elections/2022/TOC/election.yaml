@@ -1,0 +1,18 @@
+name: 2022 Technical Oversight Committee
+organization: Cloud Foundry Foundation
+start_datetime: 2022-06-02 00:00:00
+end_datetime: 2022-06-17 23:59:00
+no_winners: 3
+allow_no_opinion: True
+delete_after: False
+show_candidate_fields:
+- employer
+- github
+- slack
+election_officers:
+- christopherclark
+- ramiyengar
+- emalm
+eligibility: foo
+exception_description: bar
+exceptions_due: 2022-06-01 23:59:00
